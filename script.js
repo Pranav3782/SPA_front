@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let uploadedImageFile = null;
 
     // In your local script.js file
-    const API_BASE_URL = "https://spa-2-9sg0.onrender.com/"; // <-- MAKE SURE THIS IS EXACTLY THIS
+    const API_BASE_URL = "https://spa-9.onrender.com"; // <-- MAKE SURE THIS IS EXACTLY THIS
     
 
     // Function to show/hide loading spinner and manage button state
